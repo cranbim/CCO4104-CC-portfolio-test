@@ -7,7 +7,7 @@ function setup() {
   }
   colorMode(HSB)
   // frameRate(1)
-  describe('A continually drawing line made of triangles in one of two colours that reflect the orintation c/w the previous triangle');
+  describe('A continually drawing line made of triangles in one of two colours that reflect the orintation c/w the previous triangle', LABEL);
 }
 
 function draw() {
