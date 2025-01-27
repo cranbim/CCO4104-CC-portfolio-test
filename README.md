@@ -11,4 +11,4 @@ See the picture
 
 ![a screenshot of the code drawing a line made up of triangles of two colours on a black background](/images/tranglesLine.png)
 
-You can see the project [running here](https://cranbim.github.io/CCO4104-CC-portfolio-test/oneShape/index.html)
+You can see the project [running here](/oneShape/index.html)
