@@ -1,4 +1,5 @@
-# CCO4104-CC-portfolio-test
+# CCO4100 Creative Coding Portfolio
+## Dave Webb 394326
 
 This is an example file that I am using to share stuff I have made
 
