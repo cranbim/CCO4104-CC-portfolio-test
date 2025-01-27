@@ -3,5 +3,5 @@
 
 This is an example file that I am using to share stuff I have made
 
-[## Project 1](Project1.md)
+[*Project 1](Project1.md)
 Submitted for Genuary 2025 day 24
