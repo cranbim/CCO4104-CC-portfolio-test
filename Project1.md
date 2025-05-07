@@ -13,4 +13,4 @@ You can see the project [running here](https://cranbim.github.io/CCO4104-CC-port
 
 You can see the project [does this work though?](/oneShape/index.html)
 
-<img src="/images/tranglesLine.png" alt="alt text" width="200">​
+<img src="/CCO4104-CC-portfolio-test/images/tranglesLine.png" alt="alt text" width="200">​
