@@ -1,5 +1,5 @@
 ## project number 1
-I made this for GEnuary 2025 day 24 - the prompt was to take any geometric shape and use only that shape.
+I made this for Genuary 2025 day 24 - the prompt was to take any geometric shape and use only that shape.
 I used an Isosceles triangle, with each subsequent triangle butted to the long edge of the previous one and oriented in one of two directions, setting the position and angle for the next triangle.
 Here is some of the code
 ```
@@ -12,3 +12,5 @@ See the picture
 You can see the project [running here](https://cranbim.github.io/CCO4104-CC-portfolio-test/oneShape/index.html)
 
 You can see the project [does this work though?](/oneShape/index.html)
+
+<img src="/images/tranglesLine.png" alt="alt text" width="200">​
