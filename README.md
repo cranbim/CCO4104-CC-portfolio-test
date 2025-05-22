@@ -8,4 +8,4 @@ Submitted for Genuary 2025 day 24
 
 [Tumbler demo](/Tumbler3/index.html)
 
-[This is one of my experiements](experiement2.md)
+[This is one of my experiements](experiment2.md)
